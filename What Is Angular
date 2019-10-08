@@ -1,1 +1,14 @@
 Angular is a Javascript Framework which allows you to create reactive single page applications.
+Javascript changes the Dom of single HTML page.
+Angular Versions - 
+Angular JS i.e. Angular 1
+Angular - was released was released as Angular 2. Completed Re-write
+There haven't much changes between Angular 2 and Angular 8. New Version every 6 months.
+
+import { FormsModle } from '@angular/forms';
+Install nodejs and once complete installation run below commands.
+
+npm install -g @angular/cli
+ng new my-dream-app  // go to directory where you want project.
+cd my-dream-app
+ng serve
