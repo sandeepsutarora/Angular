@@ -1,0 +1,24 @@
+1. How an Angular App gets Loaded and Started.
+Ans - index.html file is served by the server.
+    <app-root>Loading...</app-root>
+    Component having <app-root> selector
+    
+2. How angular triggers?
+   ng server will creates bundles
+   
+3. ng generate component servers
+
+4. SET PATH=c:\Program Files\NodeJs;%PATH%
+
+5. Compoenent
+   Decorator
+            @Component
+            1. Declaration
+            2. Imports
+            3. Providers
+            4. BootStrap
+6. New component will have its own functionality/business logic.
+7. Component has by default below portion and it build using templates, HTML Code, Css, Reusable parts and Business Logic.
+    Header
+    Main Area
+    Side Portion
