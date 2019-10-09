@@ -1,0 +1,14 @@
+TypeScript is superset of javascript eg. Types, Classes , Interfaces.
+TypeScript--------> Compiled to -------> JavaScript
+BootStrap css 
+  npm install --save bottstrap@3
+  
+  1. angular.json     -Defalut setup is perfect.
+                      -styles array.   --enter path of bootstrap add in the project.
+
+  2. Extract zip file
+  3. npm install in the extracted directory.
+  4. ng serve
+  5. npm install --save-dev-exact typescript@3.4.5 in the same project foled and re-try ng serve
+  
+  
