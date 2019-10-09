@@ -1,0 +1,30 @@
+Databinding = communication between TypeScript code (Business Logic) to the Template (HTML).
+1. output Data 
+     String Interploation ({{ data}})
+     Property Binding ([property]="data")
+     
+2. React to (User) Events
+   Event Binding ((event )= "expression")
+   
+3. Combination of both Two-Way-Binding ([(ngModel)]="data")
+
+
+4. String Interpolation
+    1. Created new module called StringInterpolation using ng g c StringInterpolation, which created defalut
+       entry in app.module including import and adding in the declaration of @ngModule
+    2. Further created String interpolation in HTML file and from component return/assigned variables/methods that values.
+       
+5. Property Binding
+   1.
+   2. 
+   
+6. Property Binding vs String Interpolation
+
+
+7. Event Binding
+   (event)="method()"
+   (click)="onCreateServer()"
+
+
+
+
