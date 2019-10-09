@@ -10,5 +10,21 @@ Install nodejs and once complete installation run below commands.
 
 npm install -g @angular/cli
 ng new my-dream-app  // go to directory where you want project.
-cd my-dream-app
+cd my-first-app
 ng serve
+
+4200 default port
+localhost:4200
+
+Download htmls file from course and replaced in app directory of project.
+
+App folder will have following files.
+ app.component.css
+ app.component.html
+ app.component.specification
+ app.component.ts
+ app.module.ts
+
+Directive  
+[(ngmodel)]
+
