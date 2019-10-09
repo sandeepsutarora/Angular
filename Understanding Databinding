@@ -26,5 +26,9 @@ Databinding = communication between TypeScript code (Business Logic) to the Temp
    (click)="onCreateServer()"
 
 
-
+8. Two way data binding.
+   needs to enable ngModel directive adding the FormsModule to the imports array in the appModule.
+   Also beeds to add important from @angular/forms in the app.module.ts file;
+   import { FormsModule }  from @angular/foms.
+   
 
