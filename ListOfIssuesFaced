@@ -1,0 +1,4 @@
+1. ng server was not running after restart.
+Ans- Login using Admin rights (Windos + X)
+     cd projectDirectory
+     npm run ng serve
